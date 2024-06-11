@@ -13,11 +13,11 @@
     <p>paragrafo 3</p>
     <p>paragrafo 4</p>
     <p>paragrafo 5</p>
-    <ul>
+    <ol>
         <h2><strong>titulo da lista</strong></h2>
         <li>item 1</li>
         <li>item 2</li>
         <li>item 3</li>
-    </ul>
+    </ol>
 </body>
 </html>
