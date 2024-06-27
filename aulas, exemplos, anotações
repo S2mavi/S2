@@ -7,17 +7,20 @@
 </head>
 <body>
     <h1>TITULO</h1>
+    <p>parágrafo</p>
     <h2>SUBTITULO</h2>
     <p>paragrafo 1</p>
     <p>paragrafo 2</p>
     <p>paragrafo 3</p>
     <p>paragrafo 4</p>
     <p>paragrafo 5</p>
-    <ol>
+    <h3>parágrafos</h3>
+    <ul>
         <h2><strong>titulo da lista</strong></h2>
         <li>item 1</li>
+        <img src="chococat.jpg">
         <li>item 2</li>
         <li>item 3</li>
-    </ol>
+    </ul>
 </body>
 </html>
